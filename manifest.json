@@ -1,0 +1,17 @@
+l{
+    "format_version": 1,
+    "header": {
+        "description": "§bBluecraft Resource",
+        "name": "§bBluecraft ► §7[ §bBluecraft Resource]",
+        "uuid": "f091c9cd-c228-4849-b8a3-89842ab84a48",
+        "version": [1, 5, 35]
+    },
+    "modules": [
+        {
+            "description": "§bBluecraft Resource",
+            "type": "resources",
+            "uuid": "9f955b4f-26c8-4fec-8728-0ad8e0a2a34f",
+            "version": [1, 5, 35]
+        }
+    ]
+}
